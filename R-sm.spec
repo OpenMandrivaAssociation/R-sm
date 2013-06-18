@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.2_4.1
-Release:          1
+Release:          2
 Summary:          Smoothing methods for nonparametric regression and density estimation
 Group:            Sciences/Mathematics
 License:          GPL-2
