@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          2.2_4.1
-Release:          2
+Version:          2.2.5.3
+Release:          1
 Summary:          Smoothing methods for nonparametric regression and density estimation
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.2-4.1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/sm_2.2-5.3.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-rpanel R-tkrplot R-rgl R-misc3d R-akima R-gam 

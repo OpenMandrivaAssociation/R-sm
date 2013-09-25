@@ -1,2 +1,4 @@
+removed_sources:
+  sm_2.2-4.1.tar.gz: 40e577e145bd9949bccd83884492ab28fc0cc1e1
 sources:
-  "sm_2.2-4.1.tar.gz:"	40e577e145bd9949bccd83884492ab28fc0cc1e1
+  sm_2.2-5.3.tar.gz: 7193b3c78724ea22f80f1a3d267942d9d2134169
